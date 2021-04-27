@@ -36,7 +36,13 @@
 
 	int main()
 	{
-		cout<<"百度喵,喵喵喵";
+		int a;
+		int b; 
+		int temp;
+		temp = a;
+		a = b;
+		b = temp;
+		return 0;
 	}
 
 
