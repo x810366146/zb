@@ -30,6 +30,9 @@
 >>KKLTKKLT
 >>>KKLTKKLTKKLT
 
+|本地KKLT|百度KKLT|无名KKLT|
+|:-:|:-:|:-:|
+|KKLT|KKLTKKLT|KKLTKKLTKKLT|
 
 	#include<iostream>
 	#using namespace std;
@@ -47,9 +50,7 @@
 
 
 
-|本地KKLT|百度KKLT|无名KKLT|
-|:-:|:-:|:-:|
-|KKLT|KKLTKKLT|KKLTKKLTKKLT|
+
 
 [下个文件](NEXT.md)
 
