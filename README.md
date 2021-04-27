@@ -7,7 +7,7 @@
 
 - KKLT
 - KKLTKKLT
-- KKLTKKLT
+- KKLTKKLTKKLT
 
 
 
@@ -22,13 +22,13 @@
 )
 
 
-1.喵
-2.喵喵
-3.喵喵喵
+1.KKLT
+2.KKLTKKLT
+3.KKLTKKLTKKLT
 
->喵
->>喵喵
->>>喵喵喵
+>KKLT
+>>KKLTKKLT
+>>>KKLTKKLTKKLT
 
 
 	#include<iostream>
@@ -41,11 +41,11 @@
 
 
 
-|本地喵|百度喵|无名喵|
+|本地KKLT|百度KKLT|无名KKLT|
 |:-:|:-:|:-:|
-|喵|喵喵|喵喵喵|
+|KKLT|KKLTKKLT|KKLTKKLTKKLT|
 
-[下个喵](TOME.md)
+[下个文件](TOME.md)
 
 
 
